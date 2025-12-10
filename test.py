@@ -1,0 +1,10 @@
+def first_func(a,b):
+    return a+b
+def second_func(c,d):
+    return c-d
+def fifth_function(r,p):
+    return r*p
+def sub_tract(x,y):
+    return x*y
+def six_fun(f,g):
+    return f%g
